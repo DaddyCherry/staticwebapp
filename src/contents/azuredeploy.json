@@ -253,7 +253,7 @@
                         "value": "[parameters('location')]"
                     },
                     "fileUris": {
-                        "value": "https://delivery1213.z11.web.core.windows.net/contents/labvm.ps1"
+                        "value": "https://salmon-island-022707300.azurestaticapps.net/contents/labvm.ps1"
                     }
                 }
             }
